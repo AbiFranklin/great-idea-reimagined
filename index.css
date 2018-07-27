@@ -1,0 +1,11 @@
+#img {
+    border: 1px solid aqua;
+    height: 380px;
+    width: 380px;
+}
+
+#video {
+    /*position: absolute;*/
+    clip-path: circle(190px at center);
+    transform: translate(-450px, -170px);
+}
