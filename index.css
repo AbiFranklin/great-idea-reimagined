@@ -1,3 +1,14 @@
+body {
+
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid red;
+}
+
 #img {
     border: 1px solid aqua;
     height: 380px;
